@@ -3,6 +3,8 @@
 ![CI](https://github.com/YOUR_ORG/YOUR_REPO/actions/workflows/ci.yml/badge.svg)
 <!-- ^ Replace YOUR_ORG/YOUR_REPO with your actual GitHub repository path -->
 
+> **CI Pipeline Test:** This commit is used to verify the GitHub Actions CI workflow runs correctly on push.
+
 AI-powered DevOps platform that predicts, investigates, and helps resolve system incidents from a single dashboard.
 
 ## Stack
